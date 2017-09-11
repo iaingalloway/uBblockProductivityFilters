@@ -1,0 +1,3 @@
+# Stack Overflow hot network questions are a rabbit hole for my productivity, and I can't simply avoid going to the site!
+stackoverflow.com###hot-network-questions
+softwareengineering.stackexchange.com###hot-network-questions
